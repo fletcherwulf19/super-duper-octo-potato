@@ -885,3 +885,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [24Jun2025 20:48:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Knowledge of Death]
 [24Jun2025 20:48:41.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Ambush]
 [24Jun2025 20:51:44.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17999, l='ServerLevel[feliz]', x=380.87, y=64.41, z=323.92] died: Undead Knight suffocated in a wall
+[24Jun2025 21:01:31.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SD53> [name:"Casa", x:13, y:103, z:324, dim:minecraft:overworld]
+[24Jun2025 21:06:20.696] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3fbf4115-ab8b-3213-9e4c-03d39e1335de.json: Don't know what storagenetwork:inventory is
+[24Jun2025 21:06:20.696] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3fbf4115-ab8b-3213-9e4c-03d39e1335de.json: Don't know what storagenetwork:kabel is
+[24Jun2025 21:06:20.697] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3fbf4115-ab8b-3213-9e4c-03d39e1335de.json: Don't know what storagenetwork:storage_kabel is
+[24Jun2025 21:06:20.697] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/3fbf4115-ab8b-3213-9e4c-03d39e1335de.json: Don't know what storagenetwork:request is
+[24Jun2025 21:06:20.712] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 21:06:20.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 21:06:20.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 21:06:20.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 21:06:20.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 21:06:20.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 21:06:20.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 21:06:20.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 21:06:20.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 21:06:20.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 21:06:20.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 21:06:20.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 21:06:20.716] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 21:06:20.716] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 21:06:20.716] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 21:06:20.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 21:06:20.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 21:06:20.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 21:06:20.717] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 21:06:20.718] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 21:06:20.718] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 21:06:20.718] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 21:06:20.718] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 21:06:20.719] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 21:06:20.719] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 21:06:20.719] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 21:06:20.719] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 21:06:20.720] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 21:06:20.720] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 21:06:20.720] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 21:06:20.721] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 21:06:20.721] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 21:06:20.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 21:06:20.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 21:06:20.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 21:06:20.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 21:06:20.722] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 21:06:20.723] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 21:06:20.723] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 21:06:20.723] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 21:06:20.724] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 21:06:20.724] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 21:06:20.724] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 21:06:20.724] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 21:06:20.724] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 21:06:20.725] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 21:06:20.725] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 21:06:20.725] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 21:06:20.726] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 21:06:20.726] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 21:06:20.726] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 21:06:20.726] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 21:06:20.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noah_03[/127.55.145.14:39681] logged in with entity id 29397 at (13.845935013340977, 103.0, 326.14365309689214)
+[24Jun2025 21:06:20.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 joined the game
+[24Jun2025 21:06:20.828] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
+[24Jun2025 21:08:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Ambush]
+[24Jun2025 21:09:57.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ivandraws lost connection: Disconnected
+[24Jun2025 21:09:57.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws left the game

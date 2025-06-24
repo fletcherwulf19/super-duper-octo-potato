@@ -516,7 +516,19 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-24 19:07:47 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-06-24 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-06-24 19:11:52 +0000"
     },
@@ -540,15 +552,28 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "toms_storage:unlock_netherite": {
     "criteria": {
-      "diamond": "2025-06-24 19:07:47 +0000"
+      "inv_changed-netherite": "2025-06-24 21:06:20 +0000"
     },
     "done": true
   },
-  "evilcraft:first_age": {
+  "toms_storage:unlock_glowstone": {
     "criteria": {
-      "criteria_0": "2025-06-24 19:11:52 +0000"
+      "inv_changed-glowstone": "2025-06-24 21:06:20 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-06-24 21:06:20 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-06-24 21:06:20 +0000",
+      "inv_changed-diamond": "2025-06-24 21:06:20 +0000"
     },
     "done": true
   },

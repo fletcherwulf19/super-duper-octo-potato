@@ -294,6 +294,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-24 21:08:37 +0000",
       "minecraft:skeleton": "2025-06-24 15:02:21 +0000",
       "minecraft:spider": "2025-06-24 16:22:45 +0000",
       "minecraft:creeper": "2025-06-24 16:17:55 +0000",
@@ -588,6 +589,12 @@
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-06-24 19:57:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-24 21:08:37 +0000"
     },
     "done": true
   },
