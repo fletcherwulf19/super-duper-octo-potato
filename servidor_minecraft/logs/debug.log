@@ -9216,3 +9216,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [24Jun2025 20:37:06.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
 [24Jun2025 20:42:06.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [24Jun2025 20:42:06.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[24Jun2025 20:42:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws fell from a high place
+[24Jun2025 20:42:28.680] [Server thread/DEBUG] [tombstone/]: A new grave of the player ivandraws was created at position [x:292, y:108, z:451, dim:minecraft:overworld]
+[24Jun2025 20:42:28.681] [Server thread/INFO] [tombstone/]: The player ivandraws has successfully been saved
+[24Jun2025 20:47:06.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[24Jun2025 20:47:06.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[24Jun2025 20:48:41.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Knowledge of Death]
+[24Jun2025 20:48:41.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Ambush]
+[24Jun2025 20:51:44.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/17999, l='ServerLevel[feliz]', x=380.87, y=64.41, z=323.92] died: Undead Knight suffocated in a wall
+[24Jun2025 20:52:06.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[24Jun2025 20:52:06.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
