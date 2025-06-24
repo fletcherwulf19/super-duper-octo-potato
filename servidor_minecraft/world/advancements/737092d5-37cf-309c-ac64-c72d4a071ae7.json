@@ -540,9 +540,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "apotheosis:affix/mythic_gem": {
     "criteria": {
-      "avoid_vibration": "2025-06-24 19:00:45 +0000"
+      "gem": "2025-06-24 18:37:30 +0000"
     },
     "done": true
   },
@@ -552,15 +552,15 @@
     },
     "done": false
   },
-  "evilcraft:cannibal": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "criteria_0": "2025-06-24 19:17:11 +0000"
+      "bred": "2025-06-24 18:43:34 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/mythic_gem": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "gem": "2025-06-24 18:37:30 +0000"
+      "avoid_vibration": "2025-06-24 19:00:45 +0000"
     },
     "done": true
   },
@@ -570,9 +570,34 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "evilcraft:cannibal": {
     "criteria": {
-      "bred": "2025-06-24 18:43:34 +0000"
+      "criteria_0": "2025-06-24 19:17:11 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-06-24 19:57:14 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-06-24 19:57:14 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-06-24 19:57:14 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-06-24 19:57:14 +0000",
+      "inv_changed-diamond": "2025-06-24 19:57:14 +0000"
     },
     "done": true
   },

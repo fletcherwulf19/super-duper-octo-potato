@@ -861,3 +861,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [24Jun2025 20:00:54.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=-54, z=8}
 [24Jun2025 20:00:55.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=-54, z=8}
 [24Jun2025 20:00:58.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=-53, z=7}
+[24Jun2025 20:00:58.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=-53, z=6}
+[24Jun2025 20:01:03.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws tried to swim in lava
+[24Jun2025 20:01:03.723] [Server thread/INFO] [tombstone/]: The player ivandraws has successfully been saved
+[24Jun2025 20:01:19.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=105, z=1}
+[24Jun2025 20:01:19.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=105, z=1}
+[24Jun2025 20:01:20.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=105, z=-2}
+[24Jun2025 20:01:23.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=103, z=-1}
+[24Jun2025 20:01:23.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=104, z=-2}
+[24Jun2025 20:01:23.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=104, z=-2}
+[24Jun2025 20:01:23.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=103, z=-2}
+[24Jun2025 20:01:23.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=103, z=-3}
+[24Jun2025 20:03:50.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement ['X' Marks the Spot]
+[24Jun2025 20:03:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Apothic Affixes]
+[24Jun2025 20:04:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Not a Diamond]
