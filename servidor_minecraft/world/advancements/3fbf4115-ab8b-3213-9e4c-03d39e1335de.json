@@ -607,6 +607,12 @@
     },
     "done": true
   },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-06-24 22:18:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-06-24 21:40:02 +0000"

@@ -1087,3 +1087,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [24Jun2025 22:12:37.218] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
 [24Jun2025 22:13:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was slain by Fire Dragon
 [24Jun2025 22:13:06.562] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:13:55.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was slain by Fire Dragon
+[24Jun2025 22:13:55.401] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:14:32.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was slain by Fire Dragon
+[24Jun2025 22:14:33.213] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:15:25.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 drowned
+[24Jun2025 22:15:26.003] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[24Jun2025 22:15:34.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was incinerated by Fire Dragon
+[24Jun2025 22:15:34.200] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:16:36.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was turned into KFC by Fire Dragon
+[24Jun2025 22:16:36.664] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:16:52.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb walked into fire whilst fighting Fire Dragon
+[24Jun2025 22:16:52.660] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:18:07.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Second Age]
+[24Jun2025 22:19:08.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Oh Shiny]
+[24Jun2025 22:20:19.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 fell from a high place
+[24Jun2025 22:20:19.112] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[24Jun2025 22:20:33.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Xavier the Dark'/91611, l='ServerLevel[feliz]', x=-103.40, y=80.00, z=36.65] died: Xavier the Dark was slain by Axelhg_18
+[24Jun2025 22:21:21.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SD53 lost connection: Disconnected
+[24Jun2025 22:21:21.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 left the game
+[24Jun2025 22:21:50.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was slain by Siren
+[24Jun2025 22:21:50.711] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:25:21.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noah_03 lost connection: Disconnected
+[24Jun2025 22:25:21.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 left the game
+[24Jun2025 22:28:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has completed the challenge [Return to Sender]
+[24Jun2025 22:28:24.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was blown up by Creeper
+[24Jun2025 22:28:24.907] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:29:15.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 has made the advancement [Nightmare Fuel]
+[24Jun2025 22:35:53.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb has made the advancement [Sea? Not a Problem]
+[24Jun2025 22:36:13.567] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 22:36:13.570] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 22:36:13.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD53[/127.174.106.225:48065] logged in with entity id 105021 at (-103.5413265845234, 110.0, 213.01560852736222)
+[24Jun2025 22:36:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 joined the game
+[24Jun2025 22:36:13.618] [Server thread/INFO] [Jade/]: Syncing config to SD53 (737092d5-37cf-309c-ac64-c72d4a071ae7)
+[24Jun2025 22:39:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb was incinerated by Fire Dragon
+[24Jun2025 22:39:46.714] [Server thread/INFO] [tombstone/]: The player Aleeejandro_nb has successfully been saved
+[24Jun2025 22:43:41.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleeejandro_nb lost connection: Disconnected
+[24Jun2025 22:43:41.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb left the game
+[24Jun2025 22:44:17.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 was slain by Zombie
+[24Jun2025 22:44:17.360] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[24Jun2025 22:50:32.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Axelhg_18 lost connection: Disconnected
+[24Jun2025 22:50:32.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Axelhg_18 left the game

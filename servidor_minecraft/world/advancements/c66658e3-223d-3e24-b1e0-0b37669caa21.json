@@ -242,12 +242,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-06-24 14:45:19 +0000",
+      "minecraft:birch_forest": "2025-06-24 22:13:26 +0000",
       "minecraft:beach": "2025-06-24 18:34:40 +0000",
       "minecraft:river": "2025-06-24 14:36:35 +0000",
       "minecraft:dripstone_caves": "2025-06-24 14:50:45 +0000",
       "minecraft:grove": "2025-06-24 15:05:50 +0000",
       "minecraft:forest": "2025-06-24 14:11:24 +0000",
       "minecraft:ocean": "2025-06-24 18:32:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-24 22:13:46 +0000",
       "minecraft:meadow": "2025-06-24 16:03:01 +0000",
       "minecraft:plains": "2025-06-24 14:10:51 +0000"
     },
@@ -281,7 +283,9 @@
     "criteria": {
       "cooked_beef": "2025-06-24 14:32:10 +0000",
       "apple": "2025-06-24 14:13:48 +0000",
-      "bread": "2025-06-24 16:17:46 +0000"
+      "bread": "2025-06-24 16:17:46 +0000",
+      "cookie": "2025-06-24 22:26:15 +0000",
+      "mushroom_stew": "2025-06-24 22:23:22 +0000"
     },
     "done": false
   },
@@ -312,11 +316,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-24 15:37:19 +0000",
+      "minecraft:ghast": "2025-06-24 22:28:05 +0000",
       "minecraft:spider": "2025-06-24 14:28:24 +0000",
       "minecraft:creeper": "2025-06-24 17:42:19 +0000",
       "minecraft:slime": "2025-06-24 18:06:32 +0000",
       "minecraft:witch": "2025-06-24 18:16:23 +0000",
+      "minecraft:wither_skeleton": "2025-06-24 22:20:33 +0000",
       "minecraft:cave_spider": "2025-06-24 15:04:01 +0000",
+      "minecraft:piglin": "2025-06-24 22:19:49 +0000",
       "minecraft:enderman": "2025-06-24 17:45:22 +0000",
       "minecraft:stray": "2025-06-24 18:02:01 +0000",
       "minecraft:silverfish": "2025-06-24 18:47:50 +0000",
@@ -628,9 +635,33 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin_directly": "2025-06-24 22:19:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-24 22:28:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-24 22:29:15 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-06-24 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-06-24 22:19:16 +0000"
     },
     "done": true
   },
@@ -642,7 +673,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-24 22:02:19 +0000"
+      "minecraft:crimson_forest": "2025-06-24 22:28:52 +0000",
+      "minecraft:nether_wastes": "2025-06-24 22:02:19 +0000",
+      "minecraft:soul_sand_valley": "2025-06-24 22:24:44 +0000",
+      "minecraft:warped_forest": "2025-06-24 22:18:33 +0000"
     },
     "done": false
   },
@@ -661,6 +695,12 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-06-24 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-24 22:23:22 +0000"
     },
     "done": true
   },
