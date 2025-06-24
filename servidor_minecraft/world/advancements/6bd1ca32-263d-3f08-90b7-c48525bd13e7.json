@@ -229,17 +229,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-24 21:37:27 +0000",
+      "minecraft:deep_ocean": "2025-06-24 21:45:19 +0000",
       "minecraft:cherry_grove": "2025-06-24 14:31:24 +0000",
       "minecraft:sunflower_plains": "2025-06-24 14:29:39 +0000",
+      "minecraft:savanna_plateau": "2025-06-24 21:33:24 +0000",
       "minecraft:beach": "2025-06-24 15:15:05 +0000",
       "minecraft:sparse_jungle": "2025-06-24 15:13:22 +0000",
       "minecraft:river": "2025-06-24 14:51:33 +0000",
       "minecraft:lukewarm_ocean": "2025-06-24 15:13:23 +0000",
       "minecraft:stony_shore": "2025-06-24 17:44:57 +0000",
+      "minecraft:dripstone_caves": "2025-06-24 22:02:31 +0000",
       "minecraft:grove": "2025-06-24 17:46:43 +0000",
       "minecraft:cold_ocean": "2025-06-24 17:44:19 +0000",
       "minecraft:forest": "2025-06-24 10:56:20 +0000",
       "minecraft:deep_cold_ocean": "2025-06-24 17:44:39 +0000",
+      "minecraft:ocean": "2025-06-24 21:45:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-24 19:31:58 +0000",
       "minecraft:flower_forest": "2025-06-24 14:51:38 +0000",
       "minecraft:meadow": "2025-06-24 15:38:09 +0000",
@@ -576,12 +581,6 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-06-24 19:55:49 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-06-24 19:54:46 +0000"
@@ -604,6 +603,30 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-06-24 19:54:46 +0000",
       "inv_changed-diamond": "2025-06-24 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-24 19:55:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-24 21:34:30 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-24 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-24 21:35:08 +0000"
     },
     "done": true
   },

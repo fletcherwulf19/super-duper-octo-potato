@@ -341,6 +341,7 @@
       "cooked_beef": "2025-06-24 14:46:19 +0000",
       "beef": "2025-06-24 14:29:30 +0000",
       "bread": "2025-06-24 19:17:19 +0000",
+      "rabbit_stew": "2025-06-24 21:59:08 +0000",
       "cooked_salmon": "2025-06-24 15:20:56 +0000"
     },
     "done": false
@@ -389,6 +390,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-06-24 21:13:51 +0000",
       "wheat": "2025-06-24 15:11:27 +0000"
     },
     "done": false
@@ -397,7 +399,10 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-24 15:35:00 +0000",
       "minecraft:spider": "2025-06-24 18:20:02 +0000",
+      "minecraft:creeper": "2025-06-24 21:35:11 +0000",
       "minecraft:phantom": "2025-06-24 18:01:01 +0000",
+      "minecraft:witch": "2025-06-24 21:43:56 +0000",
+      "minecraft:cave_spider": "2025-06-24 21:41:11 +0000",
       "minecraft:zombie": "2025-06-24 17:36:58 +0000"
     },
     "done": false
@@ -422,7 +427,9 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-06-24 17:08:17 +0000"
+      "opened_barrel": "2025-06-24 21:21:16 +0000",
+      "opened_chest": "2025-06-24 17:08:17 +0000",
+      "opened_cart": "2025-06-24 21:29:37 +0000"
     },
     "done": false
   },
@@ -552,9 +559,39 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-06-24 21:29:37 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-24 21:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-06-24 21:16:21 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-06-24 21:06:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-06-24 21:37:58 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-24 21:32:44 +0000"
     },
     "done": true
   },
@@ -564,9 +601,51 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-06-24 21:38:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-24 21:40:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-24 21:39:07 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-06-24 21:06:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-06-24 21:59:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-24 21:21:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-06-24 21:38:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-06-24 21:19:05 +0000"
     },
     "done": true
   },

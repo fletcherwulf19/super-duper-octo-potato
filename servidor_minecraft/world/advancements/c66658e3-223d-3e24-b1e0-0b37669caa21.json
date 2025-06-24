@@ -321,6 +321,7 @@
       "minecraft:stray": "2025-06-24 18:02:01 +0000",
       "minecraft:silverfish": "2025-06-24 18:47:50 +0000",
       "minecraft:zombie": "2025-06-24 14:15:50 +0000",
+      "minecraft:drowned": "2025-06-24 21:57:47 +0000",
       "minecraft:zombie_villager": "2025-06-24 18:06:42 +0000"
     },
     "done": false
@@ -624,6 +625,49 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-06-24 19:05:01 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-06-24 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-06-24 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-24 22:02:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-24 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-24 22:02:17 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-06-24 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-06-24 21:22:27 +0000",
+      "inv_changed-diamond": "2025-06-24 21:22:27 +0000"
     },
     "done": true
   },
