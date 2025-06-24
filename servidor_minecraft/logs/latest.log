@@ -875,3 +875,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [24Jun2025 20:03:50.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement ['X' Marks the Spot]
 [24Jun2025 20:03:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Apothic Affixes]
 [24Jun2025 20:04:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws has made the advancement [Not a Diamond]
+[24Jun2025 20:30:15.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [First Age]
+[24Jun2025 20:31:07.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Disme A Dozen]
+[24Jun2025 20:33:06.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has reached the goal [Bone Crusher]
+[24Jun2025 20:33:06.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Poppa Jank'/13859, l='ServerLevel[feliz]', x=128.70, y=-26.00, z=371.30] died: Poppa Jank was slain by SD53
+[24Jun2025 20:33:13.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has completed the challenge [He Wasn't So Strong]
