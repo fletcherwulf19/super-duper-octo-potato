@@ -1,0 +1,27 @@
+# Point Blank configuración mágica y balanceada
+
+autoReloadEnabled = "DISABLED"
+scopeAimingMouseSensitivity = 0.4
+resetAutoFirePitchEnabled = true
+knockback = 0.5
+particleEffectsEnabled = true
+armsDealerHouse = 4
+emeraldExchangeRate = 300.0
+thirdPersonArmPoseAlwaysOn = true
+pipScopeRefreshRate = 2
+pipScopesEnabled = true
+pipScopeColorBalanceRed = 90
+pipScopeColorBalanceGreen = 105
+pipScopeColorBalanceBlue = 110
+customShadersEnabled = true
+explosionDestroyBlocksEnabled = false
+itemDropChance = 0.2
+maxItemDropCount = 3
+bulletsBreakGlassEnabled = false
+hitscanDamageModifier = 0.6
+headshotDamageModifier = 1.5
+crosshair = "DISABLED"
+goreEnabled = false
+advancedIrisIntegrationEnabled = true
+firstPersonAnimationsEnabled = true
+thirdPersonAnimationsEnabled = true

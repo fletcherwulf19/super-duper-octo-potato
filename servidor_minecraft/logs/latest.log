@@ -1,0 +1,863 @@
+[24Jun2025 19:50:59.268] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Jun2025 19:50:59.272] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[24Jun2025 19:51:01.179] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Jun2025 19:51:01.193] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[24Jun2025 19:51:01.194] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/super-duper-octo-potato/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23167!/
+[24Jun2025 19:51:01.204] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/super-duper-octo-potato/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[24Jun2025 19:51:01.209] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[24Jun2025 19:51:01.364] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/super-duper-octo-potato/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Jun2025 19:51:01.378] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[24Jun2025 19:51:01.788] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-duper-octo-potato/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[24Jun2025 19:51:01.789] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-duper-octo-potato/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Jun2025 19:51:01.791] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-duper-octo-potato/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Jun2025 19:51:01.792] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/super-duper-octo-potato/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24Jun2025 19:51:02.124] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24Jun2025 19:51:02.125] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/super-duper-octo-potato/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.2.jar
+[24Jun2025 19:51:02.126] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[24Jun2025 19:51:02.787] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[24Jun2025 19:51:02.796] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[24Jun2025 19:51:03.453] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[24Jun2025 19:51:04.692] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Jun2025 19:51:04.831] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Jun2025 19:51:04.867] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:04.987] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:04.998] [main/WARN] [mixin/]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:05.014] [main/WARN] [mixin/]: Reference map 'fastpaintings-forge-refmap.json' for fastpaintings-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:05.051] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:05.053] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:05.062] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:05.102] [main/INFO] [Puzzles Lib/]: Loading 73 mods:
+	- alexsdelight 1.5
+	- alexsmobs 1.22.9
+	- apotheosis 7.4.8
+	- appleskin 2.5.1+mc1.20.1
+	- architectury 9.2.14
+	- ars_nouveau 4.12.6
+		\-- mixinextras 0.2.0-beta.8
+	- ars_ocultas 1.2.2
+	- artifacts 9.5.16
+		\-- expandability 9.0.4
+	- athena 3.1.2
+	- attributefix 21.0.4
+	- attributeslib 1.3.7
+	- balm 7.3.31
+		\-- kuma_api 20.1.10
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+	- citadel 2.6.1
+	- cloth_config 11.1.136
+	- comforts 6.4.0+1.20.1
+	- craftingtweaks 18.2.5
+	- creativecore 2.12.32
+	- cristellib 1.1.6
+	- curios 5.14.1+1.20.1
+	- cyclopscore 1.20.1
+	- equipmentcompare 1.3.7
+	- evilcraft 1.2.54
+		\-- evilcraftcompat 1.2.54
+	- farmersdelight 1.20.1-1.2.8
+	- fastleafdecay 32
+	- fastpaintings 1.20-1.2.7
+	- forge 47.4.0
+	- framedblocks 9.4.1
+	- framework 0.7.15
+	- geckolib 4.7.2
+	- handcrafted 3.0.6
+	- iceandfire 2.1.13-1.20.1
+	- iceberg 1.1.25
+	- immersive_armors 1.7.0+1.20.1
+	- jade 11.13.1+forge
+	- jei 15.20.0.112
+	- journeymap 5.10.3
+	- justenoughbreeding 1.5.0
+	- justenoughprofessions 3.0.1
+	- justhammers 2.0.3+mc1.20.1
+	- lootr 0.7.35.91
+	- minecraft 1.20.1
+	- modonomicon 1.77.6
+	- moonlight 1.20-2.14.8
+	- mousetweaks 2.25.1
+	- mutantmonsters 8.0.7
+	- occultism 1.141.4
+	- patchouli 1.20.1-84.1-FORGE
+	- placebo 8.6.3
+	- pointblank 1.9.6
+	- polymorph 0.49.10+1.20.1
+		\-- spectrelib 0.13.17+1.20.1
+	- puzzleslib 8.1.32
+		\-- puzzlesaccessapi 20.1.1
+	- quark 4.0-462
+	- reap 1.20.1-1.1.2
+	- refurbished_furniture 1.0.14
+	- resourcefullib 2.1.29
+	- smartbrainlib 1.15
+	- sophisticatedbackpacks 3.23.19.1251
+	- sophisticatedcore 1.2.69.1005
+	- supermartijn642configlib 1.1.8
+	- t_and_t 0.0NONE
+	- tombstone 8.9.8
+	- toms_storage 1.7.1
+	- trashslot 15.1.2
+	- visualworkbench 8.0.0
+	- waystones 14.1.13
+	- zeta 1.0-30
+[24Jun2025 19:51:05.116] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Jun2025 19:51:05.283] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Jun2025 19:51:05.325] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Jun2025 19:51:06.448] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[24Jun2025 19:51:06.490] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Jun2025 19:51:06.491] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Jun2025 19:51:07.505] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[24Jun2025 19:51:07.583] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[24Jun2025 19:51:07.583] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[24Jun2025 19:51:07.583] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[24Jun2025 19:51:07.607] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[24Jun2025 19:51:07.608] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[24Jun2025 19:51:08.032] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[24Jun2025 19:51:10.560] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[24Jun2025 19:51:11.119] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in org/violetmoon/quark/content/experimental/module/GameNerfsModule
+[24Jun2025 19:51:12.372] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 5 calls to Enchantment#getMaxLevel() in org/violetmoon/quark/content/tools/module/AncientTomesModule
+[24Jun2025 19:51:12.405] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Jun2025 19:51:12.406] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[24Jun2025 19:51:12.848] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[24Jun2025 19:51:15.078] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zpf000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[24Jun2025 19:51:15.222] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[24Jun2025 19:51:15.612] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[24Jun2025 19:51:15.612] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[24Jun2025 19:51:16.977] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[24Jun2025 19:51:17.028] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[24Jun2025 19:51:17.442] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Jun2025 19:51:17.443] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[24Jun2025 19:51:17.449] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[24Jun2025 19:51:17.451] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[24Jun2025 19:51:17.452] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[24Jun2025 19:51:17.457] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[24Jun2025 19:51:17.461] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[24Jun2025 19:51:17.471] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[24Jun2025 19:51:18.193] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[24Jun2025 19:51:18.193] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[24Jun2025 19:51:19.135] [modloading-worker-0/INFO] [zeta/]: Doing super early config setup for zeta
+[24Jun2025 19:51:19.241] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[24Jun2025 19:51:19.848] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in org/violetmoon/quark/content/experimental/module/GameNerfsModule
+[24Jun2025 19:51:20.151] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[24Jun2025 19:51:20.229] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 5 calls to Enchantment#getMaxLevel() in org/violetmoon/quark/content/tools/module/AncientTomesModule
+[24Jun2025 19:51:20.258] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[24Jun2025 19:51:20.258] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[24Jun2025 19:51:20.273] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[24Jun2025 19:51:20.276] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[24Jun2025 19:51:20.277] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[24Jun2025 19:51:20.289] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 3 calls to Enchantment#getMaxLevel() in org/violetmoon/quark/content/tools/item/AncientTomeItem
+[24Jun2025 19:51:20.301] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[24Jun2025 19:51:20.323] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[24Jun2025 19:51:20.324] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[24Jun2025 19:51:20.324] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[24Jun2025 19:51:20.324] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[24Jun2025 19:51:20.335] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[24Jun2025 19:51:20.342] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[24Jun2025 19:51:20.344] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[24Jun2025 19:51:20.356] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[24Jun2025 19:51:20.360] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[24Jun2025 19:51:20.368] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[24Jun2025 19:51:20.368] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[24Jun2025 19:51:20.388] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[24Jun2025 19:51:20.399] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[24Jun2025 19:51:20.402] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[24Jun2025 19:51:20.410] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[24Jun2025 19:51:20.411] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[24Jun2025 19:51:20.412] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[24Jun2025 19:51:20.412] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[24Jun2025 19:51:20.412] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[24Jun2025 19:51:20.419] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[24Jun2025 19:51:20.428] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[24Jun2025 19:51:20.438] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[24Jun2025 19:51:20.439] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[24Jun2025 19:51:20.460] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[24Jun2025 19:51:20.461] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[24Jun2025 19:51:20.461] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[24Jun2025 19:51:20.462] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[24Jun2025 19:51:20.510] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[24Jun2025 19:51:20.513] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[24Jun2025 19:51:20.517] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[24Jun2025 19:51:20.520] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[24Jun2025 19:51:20.522] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[24Jun2025 19:51:20.523] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[24Jun2025 19:51:20.523] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[24Jun2025 19:51:20.524] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[24Jun2025 19:51:20.526] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[24Jun2025 19:51:20.528] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[24Jun2025 19:51:20.531] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[24Jun2025 19:51:20.531] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[24Jun2025 19:51:20.532] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[24Jun2025 19:51:20.533] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[24Jun2025 19:51:20.534] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[24Jun2025 19:51:20.539] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[24Jun2025 19:51:20.540] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[24Jun2025 19:51:20.541] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[24Jun2025 19:51:20.542] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[24Jun2025 19:51:20.546] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[24Jun2025 19:51:20.548] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[24Jun2025 19:51:20.551] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[24Jun2025 19:51:20.563] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[24Jun2025 19:51:20.564] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[24Jun2025 19:51:20.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[24Jun2025 19:51:20.565] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[24Jun2025 19:51:20.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[24Jun2025 19:51:20.576] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[24Jun2025 19:51:20.616] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[24Jun2025 19:51:20.620] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[24Jun2025 19:51:20.627] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[24Jun2025 19:51:20.629] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[24Jun2025 19:51:20.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[24Jun2025 19:51:20.641] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[24Jun2025 19:51:20.648] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[24Jun2025 19:51:20.652] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[24Jun2025 19:51:20.653] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[24Jun2025 19:51:20.654] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[24Jun2025 19:51:20.655] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[24Jun2025 19:51:20.657] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[24Jun2025 19:51:20.658] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[24Jun2025 19:51:20.658] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[24Jun2025 19:51:20.676] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[24Jun2025 19:51:20.677] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[24Jun2025 19:51:20.700] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[24Jun2025 19:51:20.702] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[24Jun2025 19:51:20.703] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[24Jun2025 19:51:20.704] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[24Jun2025 19:51:20.705] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[24Jun2025 19:51:20.708] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[24Jun2025 19:51:20.708] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[24Jun2025 19:51:20.712] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[24Jun2025 19:51:20.714] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[24Jun2025 19:51:20.730] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[24Jun2025 19:51:20.731] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[24Jun2025 19:51:20.733] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[24Jun2025 19:51:20.734] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[24Jun2025 19:51:20.734] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[24Jun2025 19:51:20.735] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[24Jun2025 19:51:20.736] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[24Jun2025 19:51:20.736] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[24Jun2025 19:51:20.740] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[24Jun2025 19:51:20.740] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[24Jun2025 19:51:20.741] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[24Jun2025 19:51:20.741] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[24Jun2025 19:51:20.742] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[24Jun2025 19:51:20.743] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[24Jun2025 19:51:20.752] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[24Jun2025 19:51:20.752] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[24Jun2025 19:51:20.753] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[24Jun2025 19:51:20.753] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[24Jun2025 19:51:20.754] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[24Jun2025 19:51:20.754] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[24Jun2025 19:51:20.761] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[24Jun2025 19:51:20.767] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[24Jun2025 19:51:20.772] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[24Jun2025 19:51:20.776] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[24Jun2025 19:51:20.779] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[24Jun2025 19:51:20.780] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[24Jun2025 19:51:20.784] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[24Jun2025 19:51:20.786] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[24Jun2025 19:51:20.786] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[24Jun2025 19:51:20.787] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[24Jun2025 19:51:20.787] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[24Jun2025 19:51:20.788] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[24Jun2025 19:51:20.789] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[24Jun2025 19:51:20.790] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[24Jun2025 19:51:20.793] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[24Jun2025 19:51:20.794] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[24Jun2025 19:51:20.795] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[24Jun2025 19:51:20.796] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[24Jun2025 19:51:20.800] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[24Jun2025 19:51:20.816] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[24Jun2025 19:51:20.817] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[24Jun2025 19:51:20.819] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[24Jun2025 19:51:20.820] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[24Jun2025 19:51:20.821] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[24Jun2025 19:51:20.824] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[24Jun2025 19:51:20.825] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[24Jun2025 19:51:20.827] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[24Jun2025 19:51:20.827] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[24Jun2025 19:51:20.828] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[24Jun2025 19:51:20.829] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[24Jun2025 19:51:20.829] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[24Jun2025 19:51:20.830] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[24Jun2025 19:51:20.832] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[24Jun2025 19:51:20.833] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[24Jun2025 19:51:20.834] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[24Jun2025 19:51:20.835] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[24Jun2025 19:51:20.836] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[24Jun2025 19:51:20.838] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[24Jun2025 19:51:20.840] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[24Jun2025 19:51:20.841] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[24Jun2025 19:51:20.843] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[24Jun2025 19:51:20.844] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[24Jun2025 19:51:20.845] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[24Jun2025 19:51:20.846] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[24Jun2025 19:51:20.847] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[24Jun2025 19:51:20.847] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[24Jun2025 19:51:20.848] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[24Jun2025 19:51:20.858] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[24Jun2025 19:51:20.865] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[24Jun2025 19:51:20.866] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[24Jun2025 19:51:20.869] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[24Jun2025 19:51:20.869] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[24Jun2025 19:51:20.882] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[24Jun2025 19:51:20.884] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[24Jun2025 19:51:20.889] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[24Jun2025 19:51:20.890] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[24Jun2025 19:51:20.892] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[24Jun2025 19:51:20.892] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[24Jun2025 19:51:20.894] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[24Jun2025 19:51:20.894] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[24Jun2025 19:51:20.895] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[24Jun2025 19:51:21.017] [modloading-worker-0/INFO] [quark-zeta/]: Doing super early config setup for quark
+[24Jun2025 19:51:21.178] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in org/violetmoon/quark/content/tools/loot/EnchantTome
+[24Jun2025 19:51:29.691] [main/INFO] [Moonlight/]: Initialized block sets in 16ms
+[24Jun2025 19:51:29.769] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[24Jun2025 19:51:30.211] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.klikli_dev.occultism.common.entity.spirit.DjinniEntity from class com.klikli_dev.occultism.common.entity.spirit.FoliotEntity
+[24Jun2025 19:51:30.240] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/super-duper-octo-potato/servidor_minecraft/config/mutantmonsters-common.toml is not correct. Correcting
+[24Jun2025 19:51:30.241] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[24Jun2025 19:51:30.243] [Thread-3/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[24Jun2025 19:51:30.413] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/super-duper-octo-potato/servidor_minecraft/config/toms_storage-common.toml is not correct. Correcting
+[24Jun2025 19:51:30.414] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key importantInfo was corrected from null to its default, true. 
+[24Jun2025 19:51:30.415] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key multiblockInv was corrected from null to its default, []. 
+[24Jun2025 19:51:30.415] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blockedMods was corrected from null to its default, []. 
+[24Jun2025 19:51:30.416] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blockedBlocks was corrected from null to its default, []. 
+[24Jun2025 19:51:30.417] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[24Jun2025 19:51:30.586] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[24Jun2025 19:51:30.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[24Jun2025 19:51:30.910] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[24Jun2025 19:51:30.915] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[24Jun2025 19:51:30.933] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Common setup complete.
+[24Jun2025 19:51:30.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: UP_TO_DATE Current: 1.20.1 Target: null
+[24Jun2025 19:51:30.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[24Jun2025 19:51:30.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[24Jun2025 19:51:30.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[24Jun2025 19:51:30.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[24Jun2025 19:51:30.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[24Jun2025 19:51:31.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[24Jun2025 19:51:31.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Starting version check at https://update.maxhenkel.de/forge/reap
+[24Jun2025 19:51:31.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [reap] Found status: AHEAD Current: 1.20.1-1.1.2 Target: null
+[24Jun2025 19:51:31.342] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[24Jun2025 19:51:31.620] [main/INFO] [journeymap/]: Initializing Packet Registries
+[24Jun2025 19:51:31.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 5.10.3 Target: null
+[24Jun2025 19:51:31.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[24Jun2025 19:51:31.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.54 Target: null
+[24Jun2025 19:51:31.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[24Jun2025 19:51:31.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[24Jun2025 19:51:31.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Jun2025 19:51:31.715] [main/INFO] [Moonlight/]: Initialized color sets in 43ms
+[24Jun2025 19:51:31.728] [main/INFO] [zeta/]: Common setup: Performing initial refresh of zeta's config on thread 'main'
+[24Jun2025 19:51:31.729] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[24Jun2025 19:51:31.730] [main/INFO] [zeta/]: Waiting for server start before accepting filewatcher changes to zeta's config
+[24Jun2025 19:51:31.742] [main/INFO] [quark-zeta/]: Common setup: Performing initial refresh of quark's config on thread 'main'
+[24Jun2025 19:51:31.755] [main/INFO] [quark-zeta/]: Waiting for server start before accepting filewatcher changes to quark's config
+[24Jun2025 19:51:31.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[24Jun2025 19:51:31.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [equipmentcompare] Starting version check at https://mc-update-check.anthonyhilyard.com/502561
+[24Jun2025 19:51:31.850] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[24Jun2025 19:51:31.854] [main/INFO] [com.klikli_dev.occultism.Occultism/]: Registered compostable Items
+[24Jun2025 19:51:31.856] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Dedicated server setup complete.
+[24Jun2025 19:51:31.881] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 46 compatible attributes.
+[24Jun2025 19:51:31.889] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 46 values from config.
+[24Jun2025 19:51:31.917] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 46 entries.
+[24Jun2025 19:51:31.923] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 46 attributes.
+[24Jun2025 19:51:31.981] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[24Jun2025 19:51:31.989] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
+[24Jun2025 19:51:31.991] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
+[24Jun2025 19:51:31.994] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
+[24Jun2025 19:51:31.995] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[24Jun2025 19:51:31.996] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[24Jun2025 19:51:32.010] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[24Jun2025 19:51:32.015] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[24Jun2025 19:51:32.017] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[24Jun2025 19:51:32.018] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at xfacthd.framedblocks.common.compat.jade.FramedJadePlugin
+[24Jun2025 19:51:32.018] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[24Jun2025 19:51:32.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [equipmentcompare] Found status: UP_TO_DATE Current: 1.3.7 Target: null
+[24Jun2025 19:51:32.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[24Jun2025 19:51:32.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.8 Target: null
+[24Jun2025 19:51:32.284] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[24Jun2025 19:51:32.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[24Jun2025 19:51:32.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Jun2025 19:51:32.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.8 Target: null
+[24Jun2025 19:51:32.392] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Starting version check at https://raw.githubusercontent.com/klikli-dev/occultism/meta/updates.json
+[24Jun2025 19:51:32.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Found status: BETA Current: 1.141.4 Target: null
+[24Jun2025 19:51:32.398] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[24Jun2025 19:51:32.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[24Jun2025 19:51:32.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[24Jun2025 19:51:32.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.1 Target: 1.7.1
+[24Jun2025 19:51:38.954] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Jun2025 19:51:39.103] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+flib (version 0.0.15 -> MISSING)
+storagenetwork (version 1.12.2 -> MISSING)
+Things may not work well.
+[24Jun2025 19:51:39.254] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	storagenetwork:collector: 1098
+	storagenetwork:exchange: 1097
+	storagenetwork:export_kabel: 1093
+	storagenetwork:filter_kabel: 1092
+	storagenetwork:import_filter_kabel: 1091
+	storagenetwork:import_kabel: 1090
+	storagenetwork:inventory: 1095
+	storagenetwork:kabel: 1087
+	storagenetwork:master: 1088
+	storagenetwork:process_kabel: 1094
+	storagenetwork:request: 1086
+	storagenetwork:request_expanded: 1096
+	storagenetwork:storage_kabel: 1089
+
+[24Jun2025 19:51:39.256] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	storagenetwork:builder_remote: 1696
+	storagenetwork:collector: 1685
+	storagenetwork:collector_remote: 1695
+	storagenetwork:crafting_remote: 1693
+	storagenetwork:exchange: 1684
+	storagenetwork:expanded_remote: 1697
+	storagenetwork:export_kabel: 1683
+	storagenetwork:filter_kabel: 1682
+	storagenetwork:import_filter_kabel: 1681
+	storagenetwork:import_kabel: 1680
+	storagenetwork:inventory: 1676
+	storagenetwork:inventory_remote: 1692
+	storagenetwork:kabel: 1675
+	storagenetwork:master: 1678
+	storagenetwork:operation_upgrade: 1690
+	storagenetwork:picker_remote: 1694
+	storagenetwork:request: 1674
+	storagenetwork:request_expanded: 1677
+	storagenetwork:single_upgrade: 1691
+	storagenetwork:slow_upgrade: 1688
+	storagenetwork:speed_upgrade: 1687
+	storagenetwork:stack_upgrade: 1686
+	storagenetwork:stock_upgrade: 1689
+	storagenetwork:storage_kabel: 1679
+
+[24Jun2025 19:51:39.257] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 37 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[24Jun2025 19:51:39.257] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:item:
+    storagenetwork:builder_remote
+    storagenetwork:collector
+    storagenetwork:collector_remote
+    storagenetwork:crafting_remote
+    storagenetwork:exchange
+    storagenetwork:expanded_remote
+    storagenetwork:export_kabel
+    storagenetwork:filter_kabel
+    storagenetwork:import_filter_kabel
+    storagenetwork:import_kabel
+    storagenetwork:inventory
+    storagenetwork:inventory_remote
+    storagenetwork:kabel
+    storagenetwork:master
+    storagenetwork:operation_upgrade
+    storagenetwork:picker_remote
+    storagenetwork:request
+    storagenetwork:request_expanded
+    storagenetwork:single_upgrade
+    storagenetwork:slow_upgrade
+    storagenetwork:speed_upgrade
+    storagenetwork:stack_upgrade
+    storagenetwork:stock_upgrade
+    storagenetwork:storage_kabel
+
+Missing minecraft:block:
+    storagenetwork:collector
+    storagenetwork:exchange
+    storagenetwork:export_kabel
+    storagenetwork:filter_kabel
+    storagenetwork:import_filter_kabel
+    storagenetwork:import_kabel
+    storagenetwork:inventory
+    storagenetwork:kabel
+    storagenetwork:master
+    storagenetwork:process_kabel
+    storagenetwork:request
+    storagenetwork:request_expanded
+    storagenetwork:storage_kabel
+
+
+[24Jun2025 19:51:39.258] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[24Jun2025 19:51:39.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_connector Expected: 3422 Got: 3435
+[24Jun2025 19:51:39.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.storage_terminal Expected: 3423 Got: 3436
+[24Jun2025 19:51:39.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.trim Expected: 3424 Got: 3437
+[24Jun2025 19:51:39.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.open_crate Expected: 3425 Got: 3438
+[24Jun2025 19:51:39.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.painted_trim Expected: 3426 Got: 3439
+[24Jun2025 19:51:39.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable Expected: 3427 Got: 3440
+[24Jun2025 19:51:39.261] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_framed Expected: 3428 Got: 3441
+[24Jun2025 19:51:39.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_connector Expected: 3429 Got: 3442
+[24Jun2025 19:51:39.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_connector_filtered Expected: 3430 Got: 3443
+[24Jun2025 19:51:39.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_connector_framed Expected: 3431 Got: 3444
+[24Jun2025 19:51:39.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_proxy Expected: 3432 Got: 3445
+[24Jun2025 19:51:39.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.crafting_terminal Expected: 3433 Got: 3446
+[24Jun2025 19:51:39.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.inventory_hopper_basic Expected: 3434 Got: 3447
+[24Jun2025 19:51:39.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: toms_storage:ts.level_emitter Expected: 3435 Got: 3448
+[24Jun2025 19:51:39.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_hammer Expected: 3812 Got: 5399
+[24Jun2025 19:51:39.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_hammer Expected: 3813 Got: 5400
+[24Jun2025 19:51:39.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_hammer Expected: 3814 Got: 5401
+[24Jun2025 19:51:39.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_hammer Expected: 3815 Got: 5402
+[24Jun2025 19:51:39.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_hammer Expected: 3816 Got: 5403
+[24Jun2025 19:51:39.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_impact_hammer Expected: 3817 Got: 5404
+[24Jun2025 19:51:39.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_impact_hammer Expected: 3818 Got: 5405
+[24Jun2025 19:51:39.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_impact_hammer Expected: 3819 Got: 5406
+[24Jun2025 19:51:39.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_impact_hammer Expected: 3820 Got: 5407
+[24Jun2025 19:51:39.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_impact_hammer Expected: 3821 Got: 5408
+[24Jun2025 19:51:39.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_reinforced_hammer Expected: 3822 Got: 5409
+[24Jun2025 19:51:39.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_reinforced_hammer Expected: 3823 Got: 5410
+[24Jun2025 19:51:39.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_reinforced_hammer Expected: 3824 Got: 5411
+[24Jun2025 19:51:39.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_reinforced_hammer Expected: 3825 Got: 5412
+[24Jun2025 19:51:39.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_reinforced_hammer Expected: 3826 Got: 5413
+[24Jun2025 19:51:39.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_reinforced_impact_hammer Expected: 3827 Got: 5414
+[24Jun2025 19:51:39.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_reinforced_impact_hammer Expected: 3828 Got: 5415
+[24Jun2025 19:51:39.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_reinforced_impact_hammer Expected: 3829 Got: 5416
+[24Jun2025 19:51:39.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_reinforced_impact_hammer Expected: 3830 Got: 5417
+[24Jun2025 19:51:39.267] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_reinforced_impact_hammer Expected: 3831 Got: 5418
+[24Jun2025 19:51:39.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:stone_destructor_hammer Expected: 3832 Got: 5419
+[24Jun2025 19:51:39.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:iron_destructor_hammer Expected: 3833 Got: 5420
+[24Jun2025 19:51:39.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:gold_destructor_hammer Expected: 3834 Got: 5421
+[24Jun2025 19:51:39.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:diamond_destructor_hammer Expected: 3835 Got: 5422
+[24Jun2025 19:51:39.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:netherite_destructor_hammer Expected: 3836 Got: 5423
+[24Jun2025 19:51:39.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:impact_core Expected: 3837 Got: 5424
+[24Jun2025 19:51:39.268] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:reinforced_core Expected: 3838 Got: 5425
+[24Jun2025 19:51:39.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:reinforced_impact_core Expected: 3839 Got: 5426
+[24Jun2025 19:51:39.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: justhammers:destructor_core Expected: 3840 Got: 5427
+[24Jun2025 19:51:39.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_connector Expected: 5404 Got: 5428
+[24Jun2025 19:51:39.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.storage_terminal Expected: 5405 Got: 5429
+[24Jun2025 19:51:39.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.trim Expected: 5406 Got: 5430
+[24Jun2025 19:51:39.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.open_crate Expected: 5407 Got: 5431
+[24Jun2025 19:51:39.269] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.painted_trim Expected: 5408 Got: 5432
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable Expected: 5409 Got: 5433
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_framed Expected: 5410 Got: 5434
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_connector Expected: 5411 Got: 5435
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_connector_filtered Expected: 5412 Got: 5436
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_cable_connector_framed Expected: 5413 Got: 5437
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_proxy Expected: 5414 Got: 5438
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.crafting_terminal Expected: 5415 Got: 5439
+[24Jun2025 19:51:39.270] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.inventory_hopper_basic Expected: 5416 Got: 5440
+[24Jun2025 19:51:39.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.level_emitter Expected: 5417 Got: 5441
+[24Jun2025 19:51:39.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.paint_kit Expected: 5418 Got: 5442
+[24Jun2025 19:51:39.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.wireless_terminal Expected: 5419 Got: 5443
+[24Jun2025 19:51:39.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.adv_wireless_terminal Expected: 5420 Got: 5444
+[24Jun2025 19:51:39.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.item_filter Expected: 5421 Got: 5445
+[24Jun2025 19:51:39.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.polymorphic_item_filter Expected: 5422 Got: 5446
+[24Jun2025 19:51:39.271] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: toms_storage:ts.tag_item_filter Expected: 5423 Got: 5447
+[24Jun2025 19:51:44.757] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/super-duper-octo-potato/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23235!/assets/.mcassetsroot' uses unexpected schema
+[24Jun2025 19:51:44.757] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/super-duper-octo-potato/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23235!/data/.mcassetsroot' uses unexpected schema
+[24Jun2025 19:51:44.828] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:storagenetwork
+[24Jun2025 19:51:44.828] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:flib
+[24Jun2025 19:51:45.704] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
+[24Jun2025 19:51:45.969] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[24Jun2025 19:51:46.240] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.8.jar
+[24Jun2025 19:51:47.088] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[24Jun2025 19:51:47.130] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[24Jun2025 19:51:47.133] [main/INFO] [placebo/]: Registered 34 additional loot tables.
+[24Jun2025 19:51:47.311] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe alexsdelight:barbecue_on_a_stick
+com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.4.0-universal.jar%23240!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.4.0-universal.jar%23240!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_44275_(ShapelessRecipe.java:104) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.item.crafting.ShapelessRecipe$Serializer.m_6729_(ShapelessRecipe.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.4.0-universal.jar%23240!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23235!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[24Jun2025 19:51:47.485] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 46 recipes
+[24Jun2025 19:51:47.650] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 3658 recipe advancements
+[24Jun2025 19:51:47.660] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 719 advancements
+[24Jun2025 19:51:47.674] [main/INFO] [placebo/]: Registered 26 additional recipes.
+[24Jun2025 19:51:47.709] [main/INFO] [net.blay09.mods.craftingtweaks.registry.JsonCompatLoader/]: toms_storage has registered com.tom.storagemod.gui.CraftingTerminalMenu for CraftingTweaks via data pack
+[24Jun2025 19:51:47.726] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[24Jun2025 19:51:47.732] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[24Jun2025 19:51:47.761] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[24Jun2025 19:51:47.761] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[24Jun2025 19:51:47.761] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[24Jun2025 19:51:47.761] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[24Jun2025 19:51:47.762] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[24Jun2025 19:51:47.762] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[24Jun2025 19:51:47.762] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[24Jun2025 19:51:47.762] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[24Jun2025 19:51:47.762] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[24Jun2025 19:51:47.776] [main/INFO] [placebo/]: Registered 16 gear_sets.
+[24Jun2025 19:51:47.780] [main/INFO] [Apotheosis : Enchantment/]: Registered 31 enchanting_stats.
+[24Jun2025 19:51:47.782] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[24Jun2025 19:51:47.797] [main/INFO] [Apotheosis : Adventure/]: Registered 81 affixes.
+[24Jun2025 19:51:47.802] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
+[24Jun2025 19:51:47.802] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
+[24Jun2025 19:51:47.803] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
+[24Jun2025 19:51:47.803] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
+[24Jun2025 19:51:47.803] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
+[24Jun2025 19:51:47.803] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
+[24Jun2025 19:51:47.803] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shieldRequired: 5; Provided: 4
+[24Jun2025 19:51:47.804] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
+[24Jun2025 19:51:47.804] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
+[24Jun2025 19:51:47.816] [main/INFO] [Apotheosis : Adventure/]: Registered 19 gems.
+[24Jun2025 19:51:47.824] [main/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
+[24Jun2025 19:51:47.831] [main/INFO] [Apotheosis : Adventure/]: Registered 17 bosses.
+[24Jun2025 19:51:47.839] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
+[24Jun2025 19:51:47.842] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[24Jun2025 19:51:47.847] [main/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
+[24Jun2025 19:51:52.777] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[24Jun2025 19:51:52.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Jun2025 19:51:52.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Jun2025 19:51:52.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Jun2025 19:51:52.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Jun2025 19:51:53.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Jun2025 19:51:53.049] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Jun2025 19:51:53.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Jun2025 19:51:53.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Jun2025 19:51:53.126] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Jun2025 19:51:53.126] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Jun2025 19:51:53.149] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[24Jun2025 19:51:53.153] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Jun2025 19:51:53.154] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Jun2025 19:51:53.231] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/toms_storage-server.toml is not correct. Correcting
+[24Jun2025 19:51:53.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryConnectorRange was corrected from null to its default, 16. 
+[24Jun2025 19:51:53.232] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key onlyTrimsConnect was corrected from null to its default, false. 
+[24Jun2025 19:51:53.233] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invCableConnectorMaxScanSize was corrected from null to its default, 2048. 
+[24Jun2025 19:51:53.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wirelessReach was corrected from null to its default, 16. 
+[24Jun2025 19:51:53.234] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advWirelessRange was corrected from null to its default, 64. 
+[24Jun2025 19:51:53.235] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wirelessTermBeaconLvl was corrected from null to its default, 1. 
+[24Jun2025 19:51:53.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wirelessTermBeaconLvlDim was corrected from null to its default, 4. 
+[24Jun2025 19:51:53.236] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invLinkBeaconLvl was corrected from null to its default, 1. 
+[24Jun2025 19:51:53.237] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invLinkBeaconLvlDim was corrected from null to its default, 2. 
+[24Jun2025 19:51:53.238] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invDupScanSize was corrected from null to its default, 100. 
+[24Jun2025 19:51:53.239] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[24Jun2025 19:51:53.239] [Thread-3/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[24Jun2025 19:51:53.385] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[24Jun2025 19:51:53.385] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[24Jun2025 19:51:53.386] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[24Jun2025 19:51:53.408] [Server thread/INFO] [zeta/]: Server starting, accepting filewatcher changes for zeta's config
+[24Jun2025 19:51:53.409] [Server thread/INFO] [quark-zeta/]: Server starting, accepting filewatcher changes for quark's config
+[24Jun2025 19:51:53.409] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Jun2025 19:51:53.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Jun2025 19:51:54.077] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
+[24Jun2025 19:51:59.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Jun2025 19:52:01.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:02.001] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:02.018] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:02.022] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:02.027] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:02.084] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:02.583] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:03.081] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jun2025 19:52:03.581] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[24Jun2025 19:52:04.019] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4439 ms
+[24Jun2025 19:52:04.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.882s)! For help, type "help"
+[24Jun2025 19:52:04.081] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jun2025 19:52:04.128] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[24Jun2025 19:52:04.136] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[24Jun2025 19:52:04.137] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[24Jun2025 19:52:04.137] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[24Jun2025 19:52:04.177] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[24Jun2025 19:52:04.177] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[24Jun2025 19:52:04.177] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[24Jun2025 19:52:04.178] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[24Jun2025 19:52:04.205] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[24Jun2025 19:52:43.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9866afc[id=<null>,name=Axelhg_18,properties={},legacy=false] (/127.147.57.237:44067) lost connection: Disconnected
+[24Jun2025 19:54:46.335] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[24Jun2025 19:54:46.434] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 19:54:46.435] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 19:54:46.436] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 19:54:46.436] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 19:54:46.436] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 19:54:46.437] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 19:54:46.437] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 19:54:46.437] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 19:54:46.437] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 19:54:46.438] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 19:54:46.438] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 19:54:46.439] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 19:54:46.439] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 19:54:46.440] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 19:54:46.440] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 19:54:46.440] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 19:54:46.441] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 19:54:46.441] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 19:54:46.441] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 19:54:46.441] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 19:54:46.442] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 19:54:46.442] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 19:54:46.443] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 19:54:46.443] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 19:54:46.443] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 19:54:46.444] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 19:54:46.445] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 19:54:46.445] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 19:54:46.446] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 19:54:46.446] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 19:54:46.447] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 19:54:46.447] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 19:54:46.447] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 19:54:46.448] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 19:54:46.448] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 19:54:46.448] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 19:54:46.449] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 19:54:46.449] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 19:54:46.449] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 19:54:46.450] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 19:54:46.450] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 19:54:46.450] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 19:54:46.451] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 19:54:46.451] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 19:54:46.451] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 19:54:46.451] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 19:54:46.452] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 19:54:46.452] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 19:54:46.452] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 19:54:46.453] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 19:54:46.453] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 19:54:46.453] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 19:54:46.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleeejandro_nb[/127.147.57.237:57751] logged in with entity id 569 at (-2627.667501587247, 72.0, -494.8305915231645)
+[24Jun2025 19:54:46.486] [Server thread/INFO] [Modonomicon/]: Building books ...
+[24Jun2025 19:54:46.493] [Server thread/INFO] [Modonomicon/]: Books built.
+[24Jun2025 19:54:46.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb joined the game
+[24Jun2025 19:54:46.707] [Server thread/INFO] [Jade/]: Syncing config to Aleeejandro_nb (6bd1ca32-263d-3f08-90b7-c48525bd13e7)
+[24Jun2025 19:54:49.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[24Jun2025 19:55:49.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb has made the advancement [Suit Up]
+[24Jun2025 19:56:57.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleeejandro_nb lost connection: Disconnected
+[24Jun2025 19:56:57.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleeejandro_nb left the game
+[24Jun2025 19:57:14.694] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 19:57:14.695] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 19:57:14.695] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 19:57:14.695] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 19:57:14.696] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 19:57:14.696] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 19:57:14.697] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 19:57:14.697] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 19:57:14.697] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 19:57:14.697] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 19:57:14.698] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 19:57:14.698] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 19:57:14.698] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 19:57:14.699] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 19:57:14.699] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 19:57:14.700] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 19:57:14.700] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 19:57:14.700] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 19:57:14.700] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 19:57:14.702] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 19:57:14.702] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 19:57:14.703] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 19:57:14.704] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 19:57:14.705] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 19:57:14.705] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 19:57:14.705] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 19:57:14.706] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 19:57:14.708] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 19:57:14.708] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 19:57:14.708] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 19:57:14.709] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 19:57:14.709] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 19:57:14.710] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 19:57:14.710] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 19:57:14.710] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 19:57:14.711] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 19:57:14.711] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 19:57:14.711] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 19:57:14.711] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 19:57:14.712] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 19:57:14.712] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 19:57:14.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 19:57:14.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 19:57:14.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 19:57:14.713] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 19:57:14.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 19:57:14.714] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 19:57:14.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 19:57:14.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 19:57:14.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 19:57:14.715] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 19:57:14.716] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 19:57:14.716] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SD53[/127.174.106.225:49357] logged in with entity id 1963 at (13.301042488573792, 103.0, 323.4487629199701)
+[24Jun2025 19:57:14.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 joined the game
+[24Jun2025 19:57:14.761] [Server thread/INFO] [Jade/]: Syncing config to SD53 (737092d5-37cf-309c-ac64-c72d4a071ae7)
+[24Jun2025 20:00:15.499] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 20:00:15.500] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 20:00:15.500] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 20:00:15.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 20:00:15.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 20:00:15.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 20:00:15.501] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 20:00:15.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 20:00:15.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 20:00:15.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 20:00:15.502] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 20:00:15.503] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 20:00:15.503] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 20:00:15.503] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 20:00:15.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 20:00:15.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 20:00:15.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 20:00:15.504] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 20:00:15.505] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 20:00:15.505] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 20:00:15.505] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 20:00:15.506] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 20:00:15.506] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 20:00:15.506] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 20:00:15.506] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 20:00:15.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 20:00:15.507] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:master removed now.
+[24Jun2025 20:00:15.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request removed now.
+[24Jun2025 20:00:15.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:request_expanded removed now.
+[24Jun2025 20:00:15.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:network_book removed now.
+[24Jun2025 20:00:15.509] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stock_upgrade removed now.
+[24Jun2025 20:00:15.509] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory removed now.
+[24Jun2025 20:00:15.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:builder_remote removed now.
+[24Jun2025 20:00:15.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:operation_upgrade removed now.
+[24Jun2025 20:00:15.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector_remote removed now.
+[24Jun2025 20:00:15.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:storage_kabel removed now.
+[24Jun2025 20:00:15.510] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_filter_kabel removed now.
+[24Jun2025 20:00:15.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:collector removed now.
+[24Jun2025 20:00:15.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:crafting_remote removed now.
+[24Jun2025 20:00:15.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:expanded_remote removed now.
+[24Jun2025 20:00:15.512] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:stack_upgrade removed now.
+[24Jun2025 20:00:15.512] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:exchange removed now.
+[24Jun2025 20:00:15.512] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:slow_upgrade removed now.
+[24Jun2025 20:00:15.512] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:speed_upgrade removed now.
+[24Jun2025 20:00:15.513] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:import_kabel removed now.
+[24Jun2025 20:00:15.513] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:export_kabel removed now.
+[24Jun2025 20:00:15.513] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:filter_kabel removed now.
+[24Jun2025 20:00:15.514] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:single_upgrade removed now.
+[24Jun2025 20:00:15.514] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:inventory_remote removed now.
+[24Jun2025 20:00:15.514] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:picker_remote removed now.
+[24Jun2025 20:00:15.514] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: storagenetwork:kabel removed now.
+[24Jun2025 20:00:15.514] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[24Jun2025 20:00:15.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ivandraws[/127.125.28.50:45807] logged in with entity id 2474 at (-16.447973480736888, -51.0, 13.146053869876447)
+[24Jun2025 20:00:15.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ivandraws joined the game
+[24Jun2025 20:00:15.604] [Server thread/INFO] [Jade/]: Syncing config to ivandraws (49d5f46e-ae2a-3ec7-8e3d-fe43615458fa)
+[24Jun2025 20:00:54.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=-54, z=7}
+[24Jun2025 20:00:54.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=-54, z=8}
+[24Jun2025 20:00:54.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=-54, z=8}
+[24Jun2025 20:00:55.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=-54, z=8}
+[24Jun2025 20:00:58.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=-53, z=7}
