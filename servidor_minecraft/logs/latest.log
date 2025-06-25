@@ -546,3 +546,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [25Jun2025 11:52:06.938] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
 [25Jun2025 11:53:02.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has completed the challenge [Learn to Fart]
 [25Jun2025 11:56:41.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Rotten to the Core]
+[25Jun2025 12:10:37.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 was slain by Troll
+[25Jun2025 12:10:37.132] [Server thread/INFO] [tombstone/]: The player Noah_03 has successfully been saved
+[25Jun2025 12:10:39.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [They Have a Cave Troll!]
+[25Jun2025 12:13:24.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noah_03> [x:-38, y:-41, z:390, dim:minecraft:overworld]
