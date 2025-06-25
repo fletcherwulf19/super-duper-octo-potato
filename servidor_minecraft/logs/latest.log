@@ -560,3 +560,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [25Jun2025 09:54:37.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 joined the game
 [25Jun2025 09:54:37.438] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
 [25Jun2025 09:55:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [A Throwaway Joke]
+[25Jun2025 10:01:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 was turned to ice by Ice Dragon
+[25Jun2025 10:01:38.902] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 10:06:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 walked into a cactus whilst trying to escape Ice Dragon
+[25Jun2025 10:06:11.930] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 10:06:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Ice Bucket Challenge]

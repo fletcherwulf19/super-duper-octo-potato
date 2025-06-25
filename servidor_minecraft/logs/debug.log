@@ -8422,3 +8422,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [25Jun2025 09:55:36.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [A Throwaway Joke]
 [25Jun2025 09:59:19.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [25Jun2025 09:59:19.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[25Jun2025 10:01:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 was turned to ice by Ice Dragon
+[25Jun2025 10:01:38.878] [Server thread/DEBUG] [tombstone/]: A new grave of the player SD53 was created at position [x:299, y:112, z:-927, dim:minecraft:overworld]
+[25Jun2025 10:01:38.902] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 10:04:19.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[25Jun2025 10:04:19.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[25Jun2025 10:06:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 walked into a cactus whilst trying to escape Ice Dragon
+[25Jun2025 10:06:11.919] [Server thread/DEBUG] [tombstone/]: A new grave of the player SD53 was created at position [x:311, y:114, z:-870, dim:minecraft:overworld]
+[25Jun2025 10:06:11.930] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 10:06:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [Ice Bucket Challenge]
+[25Jun2025 10:09:19.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[25Jun2025 10:09:19.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
