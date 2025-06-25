@@ -8585,3 +8585,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [25Jun2025 09:16:19.182] [Server thread/INFO] [Jade/]: Syncing config to Noah_03 (3fbf4115-ab8b-3213-9e4c-03d39e1335de)
 [25Jun2025 09:19:29.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
 [25Jun2025 09:19:29.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[25Jun2025 09:23:29.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Mine? Mine? Mine?]
+[25Jun2025 09:24:29.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[25Jun2025 09:24:29.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[25Jun2025 09:25:04.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Your First Receptacle]
+[25Jun2025 09:25:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Cover Me with Diamonds]
+[25Jun2025 09:25:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [An Impostor Amoung Us]
+[25Jun2025 09:25:04.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Funeral Theft]
+[25Jun2025 09:26:16.478] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Jun2025 09:28:33.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 has made the advancement [Close Quarters]
+[25Jun2025 09:29:29.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[25Jun2025 09:29:29.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[25Jun2025 09:34:29.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[25Jun2025 09:34:29.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[25Jun2025 09:34:54.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=142, z=-833} BlockPos{x=217, y=142, z=-833}
+[25Jun2025 09:35:32.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/7976, l='ServerLevel[feliz]', x=404.84, y=110.00, z=-941.16] died, message: 'Leatherworker was slain by Ice Dragon'
+[25Jun2025 09:37:14.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 was frozen by Ice Dragon
+[25Jun2025 09:37:15.004] [Server thread/DEBUG] [tombstone/]: A new grave of the player SD53 was created at position [x:299, y:112, z:-930, dim:minecraft:overworld]
+[25Jun2025 09:37:15.030] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 09:37:43.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 was slain by Ice Dragon
+[25Jun2025 09:37:43.430] [Server thread/DEBUG] [tombstone/]: A new grave of the player SD53 was created at position [x:298, y:113, z:-927, dim:minecraft:overworld]
+[25Jun2025 09:37:43.446] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 09:39:23.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 fell from a high place
+[25Jun2025 09:39:23.726] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 09:39:29.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save feliz
+[25Jun2025 09:39:29.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete feliz
+[25Jun2025 09:40:05.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has made the advancement [A Throwaway Joke]
+[25Jun2025 09:40:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SD53 fell from a high place
+[25Jun2025 09:40:26.787] [Server thread/INFO] [tombstone/]: The player SD53 has successfully been saved
+[25Jun2025 09:40:27.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 has reached the goal [Bone Crusher]
