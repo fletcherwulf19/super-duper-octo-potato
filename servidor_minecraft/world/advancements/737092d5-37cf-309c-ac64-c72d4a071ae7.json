@@ -342,7 +342,8 @@
       "salmon": "2025-06-24 14:29:31 +0000",
       "cooked_chicken": "2025-06-24 14:12:21 +0000",
       "rabbit_stew": "2025-06-24 22:50:34 +0000",
-      "cooked_salmon": "2025-06-24 14:51:57 +0000"
+      "cooked_salmon": "2025-06-24 14:51:57 +0000",
+      "carrot": "2025-06-25 10:18:09 +0000"
     },
     "done": false
   },
@@ -724,6 +725,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-06-25 09:28:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-06-25 10:15:35 +0000"
     },
     "done": true
   },
