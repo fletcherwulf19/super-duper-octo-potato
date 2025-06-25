@@ -575,3 +575,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_ri
 [25Jun2025 10:31:39.423] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [25Jun2025 10:31:39.427] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [25Jun2025 10:31:39.427] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[25Jun2025 10:32:55.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/25046, l='ServerLevel[feliz]', x=-285.50, y=128.00, z=382.71]
+[25Jun2025 10:32:55.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/25054, l='ServerLevel[feliz]', x=-277.20, y=130.00, z=420.34]
+[25Jun2025 10:32:55.316] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/25055, l='ServerLevel[feliz]', x=-283.55, y=130.00, z=416.58]
+[25Jun2025 10:38:41.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noah_03 tried to swim in lava
+[25Jun2025 10:38:41.865] [Server thread/INFO] [tombstone/]: The player Noah_03 has successfully been saved
